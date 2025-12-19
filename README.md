@@ -134,7 +134,7 @@ EcommerseBookUi is a comprehensive e-commerce solution designed for online books
 
 The application uses a normalized relational database design with the following core entities:
 
-![Database Schema](database-schema-image.png)
+![Database Schema](database-schema-image.jpg)
 
 ### Core Entities
 
